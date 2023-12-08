@@ -8,7 +8,7 @@
 sbit Buzzer=P1^5;
 
 /**
-  * @brief  蜂鸣器私有延时函数，延时500us
+  * @brief  蜂鸣器私有延时函数，延时500usxyz
   * @param  无
   * @retval 无
   */
